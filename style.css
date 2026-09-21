@@ -12,3 +12,8 @@ li {
   padding: 0.5rem 0;
   border-bottom: 1px solid #ddd;
 }
+
+a:focus-visible {
+  outline: 3px solid #0969da;
+  outline-offset: 3px;
+}
